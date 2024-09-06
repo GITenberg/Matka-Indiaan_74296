@@ -1,0 +1,54 @@
+_repo: Matka-Indiaan_74296
+_version: 0.0.1
+alternative_title: A passage to India. Finnish
+contributor:
+  author_of_introduction:
+    agent_name: Österling, Anders
+    alias: Osterling, Anders
+    birthdate: 1884
+    deathdate: 1981
+    gutenberg_agent_id: '57428'
+    url: http://www.gutenberg.org/2009/agents/57428
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anders_%C3%96sterling
+    - https://fi.wikipedia.org/wiki/Anders_%C3%96sterling
+  translator:
+    agent_name: Nyman, Väinö
+    alias: Nyman, Vaino
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '46596'
+    url: http://www.gutenberg.org/2009/agents/46596
+    wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+creator:
+  author:
+    agent_name: Forster, E. M. (Edward Morgan)
+    alias: Forster, Edward Morgan
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '975'
+    url: http://www.gutenberg.org/2009/agents/975
+    wikipedia: https://en.wikipedia.org/wiki/E._M._Forster
+description: ''
+gutenberg_issued: '2024-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74296'
+language: fi
+pgterms:marc905: 20240801101237forster
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kansa, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'British -- India -- Fiction'
+- !lcsh 'Race relations -- Fiction'
+- !lcsh 'India -- Social conditions -- 20th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Matka Indiaan
+url: http://www.gutenberg.org/ebooks/74296

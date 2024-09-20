@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '46596'
     url: http://www.gutenberg.org/2009/agents/46596
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Forster, E. M. (Edward Morgan)
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/975
     wikipedia: https://en.wikipedia.org/wiki/E._M._Forster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74296#Matka-Indiaan
 gutenberg_issued: '2024-08-22'
 gutenberg_type: Text
 identifiers:
